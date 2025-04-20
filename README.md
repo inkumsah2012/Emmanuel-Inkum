@@ -16,5 +16,5 @@
 
 ## 🚀 Let's Connect
 - 🌐 [Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-yaw-inkum-769bb1125)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
