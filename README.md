@@ -1,7 +1,7 @@
 # Hi, I'm Emmanuel Yaw Inkum! 👋
 
 ## 🌟 About Me
-- I am a results-driven Data Scientist and Data Analyst with a strong academic foundation and hands-on experience in delivering data-driven solutions that inform business strategy and enhance operational performance. I hold an MSc in Data Science from Robert Gordon University and an MSc in Applied Statistics from Kwame Nkrumah University of Science and Technology, complemented by a BSc in Economics with Computing and an HND in Statistics.
+I am a results-driven Data Scientist and Data Analyst with a strong academic foundation and hands-on experience in delivering data-driven solutions that inform business strategy and enhance operational performance. I hold an MSc in Data Science from Robert Gordon University and an MSc in Applied Statistics from Kwame Nkrumah University of Science and Technology, complemented by a BSc in Economics with Computing and an HND in Statistics.
 
 My expertise spans across data analytics, machine learning, statistical modeling, and business intelligence. I am proficient in Python, R, SQL, Power BI, and Excel, with a proven ability to collect, clean, and transform large datasets into actionable insights. I have applied these skills in diverse sectors including digital banking, business operations, and research analytics.
 
