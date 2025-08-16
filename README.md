@@ -13,10 +13,10 @@ I am passionate about solving complex problems through data, committed to contin
 - 📊 Interested in solving real-world problems with data
 
 ## 💼 What I Do
-🔎 Analyze data to generate actionable insights
-📈 Build dashboards and reports for business decision-making
-🧹 Clean and prepare data for analysis
-💬 Communicate findings clearly to technical and non-technical stakeholders
+- 🔎 Analyze data to generate actionable insights
+- 📈 Build dashboards and reports for business decision-making
+- 🧹 Clean and prepare data for analysis
+- 💬 Communicate findings clearly to technical and non-technical stakeholders
 
 ## 🔭 Featured Projects
 - 🧠 [Loan-Default Prediction & ExplainableAI](https://inkumsah2012.shinyapps.io/Loan/): Analysis for predicting loan default rates and the use of explainable AI in the contributing factors.
