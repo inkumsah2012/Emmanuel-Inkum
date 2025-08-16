@@ -14,7 +14,7 @@ I am passionate about solving complex problems through data, committed to contin
 
 ## 🔭 Featured Projects
 - 🧠 [Loan-Default Prediction & ExplainableAI](https://inkumsah2012.shinyapps.io/Loan/): Analysis for predicting loan default rates and the use of explainable AI in the contributing factors.
-- 📈 [Power BI-Inventory-Dashboard ](https://github.com/inkumsah2012/Powerbi-inventory-dashboard)   [Blog   ](https://inkumsah2012.github.io/Powerbi-inventory-dashboard): This project visualizes and analyzes inventory consumption trends, purchasing patterns, and stock alerts using Power BI. It is built from a real-world E-Commerce Inventory Dataset sourced from Kaggle. The dashboard helps businesses make data-driven decisions by providing a comprehensive overview of inventory flow, low stock alerts, and location-based performance.
+- 📈 [Power BI-Inventory-Dashboard ](https://github.com/inkumsah2012/Powerbi-inventory-dashboard)   :[Blog   ](https://inkumsah2012.github.io/Powerbi-inventory-dashboard): This project visualizes and analyzes inventory consumption trends, purchasing patterns, and stock alerts using Power BI. It is built from a real-world E-Commerce Inventory Dataset sourced from Kaggle. The dashboard helps businesses make data-driven decisions by providing a comprehensive overview of inventory flow, low stock alerts, and location-based performance.
 - 🧠 [Smart AI Predictor](https://github.com/inkumsah2012/smart-ai-predictor): An AI model for predicting [specific task].
 - 📈 [Stock Market Analyzer](https://github.com/inkumsah2012/stock-market-analyzer): A Python-based tool for analyzing stock trends.
 - 🌐 [Personal Website](https://inkumsah2012.github.io/): My portfolio website built with [technology].
