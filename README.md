@@ -18,7 +18,7 @@ I am passionate about solving complex problems through data, committed to contin
 - 🧠 [Inventory Forecasting with LSTM](https://github.com/inkumsah2012/inventory-flask-app): A production‑ready, end‑to‑end machine‑learning pipeline that predicts next‑day inventory ending quantity from historical consumption data. The project couples an LSTM time‑series model with a Flask micro‑service so you can serve predictions through a lightweight web API or browser‑based form.
 - 🧠 [Smart AI Predictor](https://github.com/inkumsah2012/smart-ai-predictor): An AI model for predicting [specific task].
 - 📈 [Stock Market Analyzer](https://github.com/inkumsah2012/stock-market-analyzer): A Python-based tool for analyzing stock trends.
-- 🌐 [Personal Website](https://inkumsah2012.github.io/): My portfolio website built with [technology].
+- 🌐 [Personal Website]([https://inkumsah2012.github.io/](https://inkumsah2012.github.io/emmanuelinkum/)): My portfolio website built with [html].
 
 ## 🌱 What I'm Learning
 - Deep Learning with TensorFlow
